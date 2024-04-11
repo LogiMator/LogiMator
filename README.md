@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" alt="Hello World" width="4000"/>
   
   <h1> Hola, Soy LogiMator ! 👋 </h1>
-  <h3> Bienvenido a mi perfil! espero te encuentres bien, soy una persona apasionada por la tecnologia y a la rama de desarrollo de software en busca de nuevas experiencias y retos como desarollador Front-End</h3>
+  <h3> Bienvenido a mi perfil soy Marco! espero te encuentres bien, soy una persona apasionada por la tecnologia y a la rama de desarrollo de software en busca de nuevas experiencias y retos como desarollador Front-End</h3>
   <h2> Skills </h2>
   <p align="center">
     <a href="https://skillicons.dev">
